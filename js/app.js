@@ -133,7 +133,7 @@ function renderConfirmation(orderData) {
         <p><span class="font-semibold text-zinc-900">Total:</span> $${orderData.total.toFixed(2)} MXN</p>
       </div>
       <button id="btn-order-again" type="button" class="mt-6 w-full bg-zinc-900 text-white text-sm font-medium p-3 rounded-xl hover:bg-zinc-800 transition-colors cursor-pointer text-center">
-        Hacer otro pedido 🍯
+        Hacer otro pedido 
       </button>
     </div>
   `;
